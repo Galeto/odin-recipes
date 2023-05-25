@@ -1,3 +1,3 @@
 # odin-recipes
 
-Making a basic site with only HTML about recipes.
+Making a basic "website" only using HTML
