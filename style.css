@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background-color: lightblue;
+    font-family: Verdana, sans-serif;
+    border: ;
+}
+
+h1 {
+    color: blue;
+}
+
+a:visited {
+    color: red;
+}
+
+img {
+    
+}
